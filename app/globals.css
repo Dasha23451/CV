@@ -1,0 +1,21 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: #333;
+}
+h2 {
+  color: #555;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
