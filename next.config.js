@@ -1,6 +1,5 @@
-// next.config.js
 const isProduction = process.env.NODE_ENV === "production";
-const repoName = "CV"; // Замените на имя вашего репозитория
+const repoName = "CV";
 
 module.exports = {
   assetPrefix: isProduction ? `/${repoName}/` : "",
